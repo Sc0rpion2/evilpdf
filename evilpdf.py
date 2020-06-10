@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 # EvilPDF v1.1
 # coded by: @linux_choice
 # github.com/thelinuxchoice/evilpdf
